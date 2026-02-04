@@ -37,4 +37,4 @@ Plaintext
 📧 Contact
 Your Name -Mohd Ismail , ismattari99@gmail.com
 
-Project Link: 
+Project Link: https://github.com/mdismailmd/fruitshop.github.io.git
